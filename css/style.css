@@ -1,0 +1,37 @@
+html {
+  font-size: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.l-header {
+  background-color: #FFF7EF;
+}
+
+img {
+  background-size: 100%;
+}
+
+.hamburger-logo h1 {
+  font-size: 64px;
+  font-family: "Roboto", sans-serif;
+  color: #707070;
+  text-align: left;
+}
+
+.p-visual__main {
+  background-image: url(../images/hamburger\(1\).jpg);
+  background-size: cover;
+  background-position: center;
+  height: 530px;
+  width: 1553px;
+}
+
+.p-visual__text {
+  padding: 231px 86px 243px 86px;
+  font-size: 40px;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
